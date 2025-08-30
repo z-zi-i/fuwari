@@ -1,3 +1,6 @@
 name = "fuwari"
 compatibility_date = $(date +%Y-%m-%d)
 assets = "./dist"
+# wrangler.toml (wrangler v3.88.0^)
+[observability.logs]
+enabled = true
