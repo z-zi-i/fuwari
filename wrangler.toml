@@ -1,5 +1,5 @@
 name = "fuwari"
-compatibility_date = $(date +%Y-%m-%d)
+compatibility_date = "2025-08-30"
 assets = "./dist"
 # wrangler.toml (wrangler v3.88.0^)
 [observability.logs]
