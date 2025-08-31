@@ -1,3 +1,0 @@
-name = "fuwari"
-compatibility_date = $(date +%Y-%m-%d)
-assets = "./dist"
